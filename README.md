@@ -33,7 +33,7 @@ This project analyzes retail sales data from a coffee shop using **Excel** to un
 ---
 
 ## 📂 Repository Files Preview
-- Coffee Shop Sales Analysis.xlsx ──> Cleand data with pivots and dashboard.
+- Coffee Shop Sales Analysis.xlsx ──> Cleand data with pivots tables and dashboard.
 - Coffee Shop Sales raw data.xlsx ──> Raw data of coffee sales shop.
 - Dashboard image.png ──> Dashboard Image preview
 - README.md ──>  All about Coffee Shop Sales Analysis
